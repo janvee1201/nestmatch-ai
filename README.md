@@ -205,20 +205,6 @@ SMTP_PASS
 
 ---
 
-# 📱 Screenshots
-
-> Add screenshots of the following pages here:
-
-- Landing Page
-- Login
-- Register
-- Tenant Dashboard
-- Owner Dashboard
-- Browse Properties
-- Property Details
-- Recommendations
-
----
 
 # 🔮 Future Enhancements
 
